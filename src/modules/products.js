@@ -73,7 +73,7 @@ function foods() {
     "R$ 40",
     "R$ 20",
     "Á tradicional pizza italiana ",
-    "images/italia.png"
+    "images/Italia.png"
   );
 
   const comida2 = food(
