@@ -73,7 +73,7 @@ function foods() {
     "R$ 40",
     "R$ 20",
     "Á tradicional pizza italiana ",
-    "../src/italia.png"
+    "../dist/images/italia.png"
   );
 
   const comida2 = food(
@@ -81,7 +81,7 @@ function foods() {
     "R$ 40",
     "R$ 20",
     "Á tradicional pizza nova iorquina ",
-    "../src/NewYork.png"
+    "../dist/images/NewYork.png"
   );
   products.appendChild(comida);
   products.appendChild(comida2);

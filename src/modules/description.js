@@ -18,7 +18,7 @@ function description() {
   subtitle.appendChild(subtext);
   textWrapper.appendChild(subtitle);
   const img = document.createElement("img");
-  img.src = "../src/Pizza.png";
+  img.src = "../dist/images/Pizza.png";
   img.id = "productImage";
   imageWrapper.appendChild(img);
 }
